@@ -1,3 +1,5 @@
+See https://github.com/bnstrhbn/Family-Photo for more information about how this works. The information below is generic info about deploying a React app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
